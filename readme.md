@@ -1,2 +1,3 @@
 # Horsing around
-#In Markdown, I can make bold text with two underscores
+#In Markdown, I can make __bold__ text with two underscores
+#_indalics
